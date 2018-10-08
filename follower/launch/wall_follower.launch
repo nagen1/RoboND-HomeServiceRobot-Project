@@ -1,0 +1,3 @@
+<launch>
+  <node name="follower" pkg="follower" type="follower" output="screen" />
+</launch>

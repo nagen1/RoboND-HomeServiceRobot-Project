@@ -1,0 +1,3 @@
+<launch>
+  <node name="pick_objects" pkg="mbot_simple_goal" type="mbot_simple_goal" output="screen" />
+</launch>
